@@ -1,2 +1,0 @@
-# hunter
-fitness app
